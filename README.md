@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🏫 I'm currently studying in Beijing University of Posts and Telecommunications
 - 🌱 I'm currently learning C++
-- 🤔 I'm currently confused about which industry to work in after graduation
+- 🤔 I'm confused about which industry to work in after graduation
 
 
 ### 📈 GitHub Activity Graph:
@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 
 ### 今年汇总 ✨
 
-![Rachel0x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachel0x0&show_icons=true&theme=graywhite)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel0x0&layout=compact&langs_count=100&theme=graywhite)
+[![Rachel0x0's github stats](https://github-readme-stats.vercel.app/api?username=Rachel0x0&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=Rachel0x0&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel0x0&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel0x0&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
