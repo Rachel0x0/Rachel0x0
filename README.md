@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning C++
 - 🤔 I'm confused about which industry to work in after graduation
 
-
+<!--
 ### 📈 Activity Graph:
 
 [![Rachel0x0's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rachel0x0&theme=github-compact)](https://github.com/Rachel0x0/github-readme-activity-graph)
-
+-->
 
 ### ✨ Annual Stats
 
