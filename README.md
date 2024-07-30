@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Rachel
 
-- 🏫 I'm currently studying in Beijing University of Posts and Telecommunications
-- 🌱 I'm currently learning C++
-- 🤔 I'm confused about which industry to work in after graduation
 
 <!--
 # 📈 Activity Graph:
